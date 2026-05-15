@@ -18,33 +18,25 @@ The dashboard enables stakeholders to monitor business performance efficiently a
 ## Business Problems
 
 This analysis seeks to answer the following key business questions:
-
 1. Is the business growing profitably?
-
 The company wants to determine whether increasing revenue is translating into sustainable profit growth.
 
 2. Which markets generate the highest profit?
-
 The organization needs to identify the most profitable regions and countries to prioritize investment and expansion.
 
 3. Which products contribute the most profit?
-
 Understanding the top-performing products helps optimize inventory management, product strategy, and marketing efforts.
 
 4. Are discounts affecting profitability?
-
 The business wants to evaluate whether discount strategies are increasing sales at the expense of profit margins.
 
 5. What seasonal trends influence sales performance?
-
 The company needs to understand monthly sales patterns to improve forecasting, marketing campaigns, and inventory planning.
 
 6. Which customer segments are most valuable?
-
 The dashboard helps identify high-value customer groups that contribute most to overall profitability.
 
 7. Which markets or categories underperform?
-
 The analysis highlights weak-performing regions and product categories that require optimization or strategic review.
 
 ## Data Cleaning and Transformation (Power Query)
