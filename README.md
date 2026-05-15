@@ -91,5 +91,7 @@ This structure improved:
 
 ![img alt](https://github.com/TemitopeHassan-Analyst/Global-Skincare-and-Beauty-E-commerce/blob/875afb18cc80ad9f65bfc37569d0a8dc904f671b/Screenshot%202026-05-15%20124936.png)
 
+![img alt](https://github.com/TemitopeHassan-Analyst/Global-Skincare-and-Beauty-E-commerce/blob/62e9c52348c87efe66995cd08d22cc44a6b999d6/Screenshot%202026-05-15%20120802.png)
+
 ![img alt](https://github.com/TemitopeHassan-Analyst/Global-Skincare-and-Beauty-E-commerce/blob/326553f4c7886fa9f99555b56dfe0d670c4a88b6/Screenshot%202026-05-15%20114645.png)
 
