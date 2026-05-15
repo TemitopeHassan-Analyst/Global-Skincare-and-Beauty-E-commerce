@@ -13,6 +13,7 @@ The project focuses on identifying:
 - Regional market performance
 - Customer segment behavior
 - Monthly sales trends
+
 The dashboard helps stakeholders track business performance and make data-driven decisions to improve growth and profitability.
 
 ## Business Problems
