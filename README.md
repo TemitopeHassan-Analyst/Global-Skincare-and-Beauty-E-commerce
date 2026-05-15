@@ -73,5 +73,17 @@ Date fields were transformed into a structured date hierarchy to support trend a
 
 ## Data Modelling
 
-A structured data model was created to establish relationships between tables and improve dashboard performance.
+A structured data model was created to establish relationships between tables and improve dashboard performance. Relationships were created using unique identifiers such as:
+
+- Product ID
+- Customer ID
+- Region/Market
+- Date Keys
+
+This structure improved:
+
+- Query performance
+- Scalability
+- Data consistency
+- Dashboard efficiency
 
