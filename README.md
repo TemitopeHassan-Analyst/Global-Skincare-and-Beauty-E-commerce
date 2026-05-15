@@ -95,3 +95,121 @@ This structure improved:
 
 ![img alt](https://github.com/TemitopeHassan-Analyst/Global-Skincare-and-Beauty-E-commerce/blob/326553f4c7886fa9f99555b56dfe0d670c4a88b6/Screenshot%202026-05-15%20114645.png)
 
+## Tools Used
+- Power Query
+- Pivot Table
+- DAX
+- Microsoft Excel
+
+## Key Insights
+1. Revenue Performance
+- Total Revenue generated: $2.19M
+- Revenue increased by approximately 10.64%
+
+This indicates strong market demand and business growth.
+
+2. Profitability Decline
+- Total Profit: $279.93K
+- Profit margin decreased by approximately 17%
+
+Although revenue increased, profitability declined, suggesting rising operational costs or excessive discounting.
+
+3. Increasing Order Volume
+- Total Orders: 8,857
+- Orders increased by approximately 12.54%
+
+This indicates growing customer engagement and transaction activity.
+
+4. Discount Impact
+- Average Discount: 14.33%
+
+The rising discount rate may be undermining overall profitability.
+
+5. Top Performing Markets
+
+The most profitable markets are:
+
+- Europe
+- Asia Pacific
+- USCA
+
+Africa generated the lowest profit contribution.
+
+6. Top Profitable Countries
+
+The United States generated the highest profit, followed by:
+
+- France
+- Mexico
+- China
+- Germany
+7. Best Performing Product
+
+- The Herbal Essential Oil product generated the highest profit among all product categories.
+
+8. Seasonal Sales Trends
+
+Sales performance peaked toward the end of the year, especially during:
+
+- September
+- November
+- December
+
+This suggests strong seasonal purchasing behavior.
+
+9. Customer Segment Insights
+
+- Corporate customers contributed significantly to profitability, making them a valuable business segment.
+
+## Strategic Recommendations
+1. Improve Profitability
+
+The company should focus on improving operational efficiency and reducing unnecessary costs to increase profit margins.
+
+Recommended Actions
+- Reduce excessive discounting
+- Optimize logistics and shipping costs
+- Increase high-margin product sales
+
+2. Expand High-Performing Markets
+
+More investment should be allocated to:
+
+Europe
+United States
+Asia Pacific
+
+These regions demonstrate strong profitability and growth potential.
+
+3. Optimize Underperforming Markets
+
+For lower-performing regions such as Africa:
+
+- Introduce localized pricing strategies
+- Improve distribution channels
+- Focus on affordable product lines
+
+4. Strengthen Product Strategy
+
+The company should expand top-performing product lines and introduce complementary products to increase customer spending.
+
+Recommended Actions
+- Product bundling
+- Cross-selling
+- Subscription skincare packages
+
+5. Reduce Discount Dependency
+
+Instead of relying heavily on discounts:
+
+- Implement loyalty programs
+- Use personalized offers
+- Introduce customer rewards systems
+
+6. Improve Forecasting and Inventory Planning
+
+Seasonal trends should be leveraged to:
+
+- Improve inventory management
+- Prevent stock shortages
+- Optimize marketing campaigns during peak periods
