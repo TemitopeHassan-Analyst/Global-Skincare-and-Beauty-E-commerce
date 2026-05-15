@@ -87,3 +87,6 @@ This structure improved:
 - Data consistency
 - Dashboard efficiency
 
+What I built
+![img alt](https://github.com/TemitopeHassan-Analyst/Global-Skincare-and-Beauty-E-commerce/blob/326553f4c7886fa9f99555b56dfe0d670c4a88b6/Screenshot%202026-05-15%20114645.png)
+
